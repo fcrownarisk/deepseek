@@ -2,6 +2,7 @@ import pyglet
 from pyglet.window import key, mouse
 from pyglet.gl import *
 import math
+import random
 
 # Constants
 TICKS_PER_SEC = 60
