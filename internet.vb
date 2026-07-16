@@ -1,7 +1,7 @@
 Imports System.Net
 Imports System.Text
 
-Public Class WebSurfer
+Class WebSurfer
     Public Shared Function SurfWebsite(url As String) As String
         Try
             ' Create a new WebClient instance
